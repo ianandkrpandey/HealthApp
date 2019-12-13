@@ -2,7 +2,7 @@
 This app is for Doctor-Patient Platform for all needs
 
 
-# Technology Used
+                                                      || Technology Used ||
 # FrontEnd- 
 AngularJs , Node Js, Html5, Css, Js, Type Script, React, etc
 # BackEnd - 
